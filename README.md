@@ -2,10 +2,8 @@
 ![banner](https://github.com/Carcraftz/Carcraftz/blob/main/SCR-20240601-unfx.jpeg?raw=true)
 
 # About Me:
-- A Computer Science Engineering undergrad
-- Love and enjoy creating websites
-- Currently focusing on web development
-- Very much into indie games
+- CS Student
+- I write too much code
 
 # Languages
 ![LOLCODE](https://img.shields.io/badge/_-LOL-CC9900.svg?style=for-the-badge)
